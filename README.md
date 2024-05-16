@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 ![Chiyoung Jeong's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=chiol&limit=5&theme=dark)
 
 
-![Chiyoung Jeong's GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)
+![Chiyoung Jeong's GitHub Streak](https://streak-stats.demolab.com/?user=chiol&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiol&layout=compact&theme=dark)

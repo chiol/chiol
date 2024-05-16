@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Chiyoung Jeong
 
 <!--
 **chiol/chiol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Github Stats
+
+![Chiyoung Jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiol&theme=dark)
+
+
+![Chiyoung Jeong's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=chiol&limit=5&theme=dark)
+
+
+![Chiyoung Jeong's GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)
